@@ -16,7 +16,7 @@
     "@azure/ms-rest-js": "^2.7.0",
     "@stoplight/spectral-core": "^1.18.3",
     "@stoplight/spectral-parsers": "^1.0.3",
-    "@stoplight/spectral-ruleset-bundler": "^1.5.2",
+    "@stoplight/spectral-ruleset-bundler": "^1.6.3",
     "@stoplight/spectral-runtime": "^1.1.2"
   },
   "devDependencies": {
